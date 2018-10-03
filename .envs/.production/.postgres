@@ -1,0 +1,7 @@
+# PostgreSQL
+# ------------------------------------------------------------------------------
+POSTGRES_HOST=postgres
+POSTGRES_PORT=5432
+POSTGRES_DB=raelart
+POSTGRES_USER=lVYvWrTsIGUknniJMPnFntMNKQKuVXqP
+POSTGRES_PASSWORD=zokO53TRIVW2dsoWaRdhXxlel9yg0z4cEMxoHcqA92BHBSSPw6T33gsAAwFrUwEG
